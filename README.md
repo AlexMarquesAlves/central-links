@@ -17,14 +17,14 @@
 
   <img alt="License" src="https://img.shields.io/github/license/AlexMarquesAlves/central-links?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/AlexMarquesAlves/central-links?color=56BEB8" /> -->
+  <img alt="Github issues" src="https://img.shields.io/github/issues/AlexMarquesAlves/central-links?color=56BEB8" />
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/AlexMarquesAlves/central-links?color=56BEB8" /> -->
+  <img alt="Github forks" src="https://img.shields.io/github/forks/AlexMarquesAlves/central-links?color=56BEB8" />
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/AlexMarquesAlves/central-links?color=56BEB8" /> -->
+  <img alt="Github stars" src="https://img.shields.io/github/stars/AlexMarquesAlves/central-links?color=56BEB8" />
 </p>
 
-Status
+## Status
 
 <h4 align="center">
 	🚧  Central Links 🚀 Under construction...  🚧
