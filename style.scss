@@ -36,4 +36,14 @@
     margin-top: 24px;
     margin-bottom: 8px;
   }
+
+  p {
+    &.username {
+      font-family: "Roboto Mono", monospace;
+      font-weight: 400;
+      color: #00082f;
+      font-size: 18px;
+      opacity: 0.8;
+    }
+  }
 }
