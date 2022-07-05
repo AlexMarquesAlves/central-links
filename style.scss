@@ -17,4 +17,16 @@
   text-align: center;
   width: 300px;
   margin: 60px auto;
+
+  img {
+    width: 100%;
+
+    &.avatar {
+      border-radius: 50%;
+      width: 100px;
+      height: 100px;
+      padding: 3.7px;
+      border: #4263eb solid 4px;
+    }
+  }
 }
