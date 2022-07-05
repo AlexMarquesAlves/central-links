@@ -1,4 +1,21 @@
 * {
+  /* width */
+  ::-webkit-scrollbar {
+    width: 10px;
+  }
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #364fc7;
+    /* Handle on hover */
+    &:hover {
+      background: #4263eb;
+    }
+  }
+
   margin: 0;
   padding: 0;
   box-sizing: border-box;
