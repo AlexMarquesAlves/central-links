@@ -9,5 +9,9 @@
   },
   "devDependencies": {
     "vite": "^2.9.9"
+  },
+  "dependencies": {
+    "node-sass": "^7.0.1",
+    "sass": "^1.53.0"
   }
 }
