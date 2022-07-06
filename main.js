@@ -20,16 +20,16 @@ document.querySelector("#app").innerHTML = `
 
       <ul>
         <li>
-          <a href="https://youtube.com" target="_blank">🎬 Youtube</a>
+          <a href="https://twitter.com/meArchi_Duque" target="_blank">🐦 Twitter</a>
         </li>
         <li>
-          <a href="https://instagram.com" target="_blank">📷 Instagram</a>
+          <a href="https://www.instagram.com/_alexmalves/" target="_blank">📷 Instagram</a>
         </li>
         <li>
-          <a href="https://facebook.com" target="_blank">💻 Facebook</a>
+          <a href="https://www.facebook.com/alvesalexmarques/" target="_blank">💻 Facebook</a>
         </li>
         <li>
-          <a href="https://github.com" target="_blank">🐱 Github</a>
+          <a href="https://github.com/AlexMarquesAlves" target="_blank">🐱 Github</a>
         </li>
       </ul>
 
