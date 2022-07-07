@@ -20,6 +20,9 @@ document.querySelector("#app").innerHTML = `
 
       <ul>
         <li>
+          <a href="https://iduke.online/projetos" target="_blank">📁 Portfolio</a>
+        </li>
+        <li>
           <a href="https://twitter.com/meArchi_Duque" target="_blank">🐦 Twitter</a>
         </li>
         <li>
@@ -38,3 +41,8 @@ document.querySelector("#app").innerHTML = `
       </footer>
   </div>
 `;
+
+const element = document.querySelector("body");
+element.classList.add("dark-pink");
+element.classList.remove("");
+element.classList.replace("dark-blue", "dark-pink");

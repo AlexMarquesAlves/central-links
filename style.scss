@@ -34,13 +34,6 @@
     color: var(--text-color);
     font-family: "Roboto", sans-serif;
 
-    &.dark-blue {
-      --bg-color: #00082f;
-      --text-color: #fff;
-      --primary-color: #4263eb;
-      --primary-color-dark: #364fc7;
-    }
-
     &.pink {
       --bg-color: #fff0f6;
       --text-color: #1f000b;
@@ -53,6 +46,17 @@
       --text-color: #fff0f6;
       --primary-color: #d6336c;
       --primary-color-dark: #a61e4d;
+    }
+
+    &.dark-blue {
+      --bg-color: #00082f;
+      --text-color: #fff;
+      --primary-color: #4263eb;
+      --primary-color-dark: #364fc7;
+
+      background-image: url("https://images.unsplash.com/photo-1495954222046-2c427ecb546d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80");
+      background-size: cover;
+      background-repeat: no-repeat;
     }
 
     a {
