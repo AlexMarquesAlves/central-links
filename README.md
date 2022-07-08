@@ -1,9 +1,10 @@
 <div align="center" id="top">
-  <img src="./.github/app.webp" alt="Central Links" />
+  <img src="./.github/App.png" alt="Central Links" />
 
 &#xa0;
 
-  <!-- <a href="https://centrallinks.netlify.app">Demo</a> -->
+<a href="https://duque-main-links.vercel.app/">Demo</a>
+
 </div>
 
 <h1 align="center">Central Links</h1>
@@ -27,7 +28,7 @@
 ## Status
 
 <h4 align="center">
-	🚧  Central Links 🚀 Under construction...  🚧
+	🚧  Central Links 🚀 Finished construction...  🚧
 </h4>
 
 <hr>
@@ -58,9 +59,9 @@ Describe your project
 
 The following tools were used in this project:
 
-- [HTML](https://expo.io/)
-- [CSS](https://nodejs.org/en/)
-- [JavaScript](https://pt-br.reactjs.org/)
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ## :white_check_mark: Requirements
 
