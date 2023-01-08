@@ -20,7 +20,7 @@ document.querySelector("#app").innerHTML = `
 
       <ul>
         <li>
-          <a href="https://iduke.online/projetos" target="_blank">📁 Portfolio</a>
+          <a href="https://iduque.tech/projetos" target="_blank">📁 Portfolio</a>
         </li>
         <li>
           <a href="https://twitter.com/meArchi_Duque" target="_blank">🐦 Twitter</a>
